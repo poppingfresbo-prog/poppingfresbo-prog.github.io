@@ -1,5 +1,4 @@
 # poppingfresbo-prog.github.io
-testing things out
 <!DOCTYPE html>
 <html lang="en">
 <head>
